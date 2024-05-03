@@ -2,5 +2,34 @@
     "navLinks": {
         "service": "servicios",
         "projects": "proyectos"
+    },
+    "heroText":{
+        "h1Line1": "Hi!",
+        "h1Line2": "I'm",
+        "span": "Antonio",
+        "subtitle": "web developer Jr",
+        "description": "me dedico a crear soluciones integrales, desde el diseño, desarrollo hasta el despliegue, mi enfoque abarca las diferentes etapas del desarrollo web, ofreciendo soluciones completas y eficientes"
+    },
+    "about":{
+        "links":{
+            "aboutMe": "Sobre mi",
+            "education": "Educación",
+            "perspective": "Perspectiva profesional"
+        }
+    },
+    "services":{
+        "sectionTitle": "SERVICIOS",
+        "designCard":{
+            "title": "DISEÑO WEB",
+            "description": "Busco crear experiencias visuales atractivas y funcionales. implementando diseños responsivos, intuitivos y estéticos que reflejen la identidad de cada marca de manera efectiva"
+        },
+        "frontendCard":{
+            "title": "DESARROLLO FRONTEND",
+            "description": "Llevo diseños creativos a código limpio y eficiente, usando las últimas tecnologías de desarrollo y las mejores practicas. Asegurando la compatibilidad con multiples dispositivos y navegadores."
+        },
+        "backendCard":{
+            "title": "DESARROLLO BACKEND",
+            "description": "Me encargo de la creación de sistemas robustos y funcionales que respaldan la lógica del negocio de las aplicaciones web. Desde la implementación de APIs hasta la gestión de bases de datos. "
+        }
     }
 }

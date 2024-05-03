@@ -1,5 +1,5 @@
 import { useTranslation } from "react-i18next";
-import { navLinks } from "../../constantes";
+import { navLinks } from "../../constants";
 
 const Navbar = () => {
   const [ t, i18n ] = useTranslation()

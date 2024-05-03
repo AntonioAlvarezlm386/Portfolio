@@ -17,7 +17,11 @@ export default {
       'raleway':['Raleway', 'sans serif'],
       'poppins': ['Poppins', 'sans serif']
     },
-    extend: {},
+    extend: {
+      backgroundImage:{
+        'hero-pattern': "url('https://w1.pngwing.com/pngs/561/274/png-transparent-cartoon-book-reactive-design-patterns-distributed-computing-computer-programming-system-programming-ebook-edition-application-software-computer-network-blue.png')"
+      }
+    },
   },
   plugins: [],
 }

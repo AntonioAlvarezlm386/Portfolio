@@ -2,5 +2,35 @@
     "navLinks": {
         "service": "services test",
         "projects": "projects test"
+    },
+    "heroText":{
+        "h1Line1": "Hi!",
+        "h1Line2": "I'm",
+        "span": "Antonio",
+        "subtitle": "web developer Jr",
+        "description": "I am dedicated to creating comprehensive solutions, from design, development to deployment, my approach covers the different stages of web development, offering complete and efficient solutions"
+    },
+    "about":{
+        "links":{
+            "aboutMe": "About me",
+            "education": "Education",
+            "perspective": "Profesional perspective"
+        }
+    },
+    "services":{
+        "sectionTitle": "SERVICES",
+        "designCard":{
+            "title": "WEB DESIGN",
+            "description": "I seek to create attractive and functional visual experiences. implementing responsive, intuitive and aesthetic designs that effectively reflect the identity of each brand"
+        },
+        "frontendCard":{
+            "title": "FRONTEND DEVELOPMENT",
+            "description": "I bring creative designs to clean and efficient code, using the latest development technologies and best practices. Ensuring compatibility with multiple devices and browsers."
+        },
+        "backendCard":{
+            "title": "BACKEND DEVELOPMENT",
+            "description": "I am responsible for creating robust and functional systems that support the business logic of web applications. From the implementation of APIs to database management."
+        }
     }
 }
+

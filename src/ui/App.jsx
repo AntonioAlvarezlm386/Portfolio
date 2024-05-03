@@ -1,11 +1,15 @@
 import Navbar from "./components/Navbar"
+import Hero from "./sections/Hero"
+import About from "./sections/About"
 
-const Main = () => {
+const App = () => {
   return (
     <div className='bg-background h-screen w-screen'>
       <Navbar/>
+      <Hero/>
+      <About/>
     </div>
   )
 }
 
-export default Main
+export default App

@@ -6,12 +6,12 @@ import {
 } from 'react-router-dom'
 import i18n from './config/i18n.js'
 import './index.css'
-import Main from './ui/Main.jsx'
+import App from './ui/App.jsx'
 
 const router = createBrowserRouter([
   {
     path: '/',
-    element: <Main/>
+    element: <App/>
   }
 ])
 
